@@ -1,5 +1,9 @@
 # Game Retention A/B Testing (Cookie Cats Dataset)
 
+👉 [View notebook on GitHub](https://github.com/prathyusha-pateel/ab-testing/blob/main/mobile_games_ab_testing.ipynb)
+
+## Experiment Overview
+
 Cookie Cats is a popular mobile puzzle game where players solve puzzles to help a cat collect cookies. The game includes "gates" that require players to wait or make in-app purchases to progress.
 
 **The Question:** Does moving the first gate from level 30 to level 40 increase player retention and engagement?
@@ -55,7 +59,6 @@ Why might Gate 30 perform better?
 This analysis demonstrates the importance of data-driven decision making in game design, as small changes in game mechanics can have significant impacts on player retention and engagement.
 
 
-👉 [View notebook on GitHub](https://github.com/prathyusha-pateel/ab-testing/blob/main/mobile_games_ab_testing.ipynb)
 
 
 
